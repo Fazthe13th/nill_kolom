@@ -1,0 +1,101 @@
+.img-responsive
+{
+    padding-bottom: 10px;
+}
+.navbar-custom
+{
+    background: #216FE2;
+   
+}
+.navbar-custom ul li a
+{
+    color: white;
+}
+.btn
+{
+    background: #216FE2;
+}
+.log-in-btn
+{
+    padding: 10px;
+    float: right;
+}
+.left-bar
+{
+   height: auto;
+   width: 10px;
+   float: left;
+   position: relative;
+}
+#content {
+    overflow: auto;
+    background: url(images/faux-columns.png) repeat-y;
+    }
+    #content .sidebar {
+    	width: 180px; float: left; 
+    }
+    	#content .sidebar.primary { padding: 0 20px 20px 30px; }
+    	#content .sidebar.secondary { padding: 0 30px 20px 20px; }
+    	#content .primary li {
+    		list-style: none;
+    		font-size: 16px; color: #666; line-height: 24px;
+    	}
+        #content .secondary li {
+    		list-style: none;
+    		font-size: 16px; color: #666; line-height: 24px;
+    	}
+    	
+    
+    #content #main {
+    	width: 460px; float: left; padding: 0 20px 20px 20px;
+    }
+    	#content #main h2 {
+    		font: italic 30px Georgia, Serif; color: #aaa; margin: 0 0 10px 0;
+    	}
+    	#content #main p {
+    		font-size: 14px; color: #666; line-height: 24px; margin: 0 0 15px 0;
+    	}
+.footer
+{
+    margin-top: 10px;
+}
+.footer span
+{
+    font-family: sans-serif;
+    
+    color: black;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.footer a{
+    float: right;
+    margin-right: 10px;;
+}
+.footer a:hover
+{
+    color: white;
+}
+.myaccount
+{
+    color: white;
+    background: #67A4ED;
+}
+.custom_btn
+{
+    color: white;
+}
+.popover
+{
+ margin-top: 200px;
+  
+}
+.loggedin
+{
+    color: white;
+    padding: 5px;
+}
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
