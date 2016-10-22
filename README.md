@@ -1,6 +1,6 @@
 # Nill Kolom
 
-One of my earliest works.An online blog for sharing poetrical and creative articals among blog members.
+One of my earliest works. An online blog for sharing poetrical and creative articals among blog members.
 
 ## Installion process
 
